@@ -1,0 +1,6 @@
+.form-check input    {
+    background-color: var(--toggle_bg);
+    color:var(--toggle_fg);
+    font-size: 1.5rem;
+
+}

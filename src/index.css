@@ -1,0 +1,28 @@
+:root{
+    
+    --body_background:#efefef;
+    --body_color:black;
+    --link_color: black;
+    --toggle_bg:#f0eb9d;
+    --toggle_fg:#ffd000;
+    --card_background:#F0F0F0;
+    --card-border:#F0F0F0;
+    --input_background:#e6e6e6;
+    --placeholder_color: #888888;
+
+    
+}
+
+[data-theme="dark"]{
+    
+    --body_background: #181b23;
+    --card_background:#212630;
+    --card-border:#313948;
+    --body_color:#F0F0F0;
+    --link_color: #3f84e4;
+    --toggle_bg: #283452;
+    --toggle_fg:#00a6ff;
+    --button_bg:#238be6;
+    --input_background:#212630;
+    --placeholder_color: #a0a0a0;
+}
